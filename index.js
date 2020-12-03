@@ -15,5 +15,5 @@ Go code!
 
 
 //test 4 the thing
-
-console.log('hello codegrade')
+const will = 'test'
+console.log(will)
