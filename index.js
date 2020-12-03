@@ -17,4 +17,5 @@ Go code!
 //test 4 the thing
 const will = 'test'
 const will2 = 'andrew'
-console.log(will2)
+const will3= 'bigtest'
+console.log(will3)
